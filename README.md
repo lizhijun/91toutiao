@@ -52,4 +52,4 @@ Resource URL
 
 官方网站
 --------
-[1GAOXIAO](http://91toutiao.com/)
+[91头条](http://91toutiao.com/)
